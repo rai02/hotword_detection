@@ -1,0 +1,6 @@
+dataset/
+not_used/
+test/
+model.h5
+*.gz
+*.json
